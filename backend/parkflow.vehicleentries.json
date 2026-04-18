@@ -1,0 +1,1859 @@
+[{
+  "_id": {
+    "$oid": "69e3def324ac28953ead03fc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotId": {
+    "$oid": "69e3de7a24ac28953ead03af"
+  },
+  "vehicleNumber": "RJ20CB8360",
+  "vehicleType": "CAR",
+  "exitTime": {
+    "$date": "2026-04-18T19:50:20.901Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "9B99B6FB",
+  "chargesCalculated": 50,
+  "paymentStatus": "PAID",
+  "entryTime": {
+    "$date": "2026-04-18T19:43:47.851Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-18T19:43:47.851Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:50:20.904Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB10CD1000",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-03-24T18:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-24T20:22:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80880",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB11CD1001",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-17T17:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-17T20:09:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80881",
+  "chargesCalculated": 150,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB12CD1002",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-13T15:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-13T20:49:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80882",
+  "chargesCalculated": 100,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dea"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB13CD1003",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-12T16:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-12T19:54:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80883",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2deb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB14CD1004",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-09T15:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-09T20:09:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80884",
+  "chargesCalculated": 100,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dec"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB15CD1005",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-05T17:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-05T20:21:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80885",
+  "chargesCalculated": 150,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2ded"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB16CD1006",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-09T14:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-09T20:16:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80886",
+  "chargesCalculated": 120,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dee"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB17CD1007",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-04-04T15:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-04T20:42:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80887",
+  "chargesCalculated": 500,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2def"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB18CD1008",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-04T17:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-04T20:09:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80888",
+  "chargesCalculated": 60,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB19CD1009",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-03-29T16:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-29T20:27:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-80889",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB20CD1010",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-01T14:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-01T20:00:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808810",
+  "chargesCalculated": 120,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB21CD1011",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-10T16:52:18.088Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-10T20:49:18.088Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808911",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB22CD1012",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-08T18:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-08T19:58:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808912",
+  "chargesCalculated": 40,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB23CD1013",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-07T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-07T20:11:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808913",
+  "chargesCalculated": 150,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB24CD1014",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-03-24T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-24T20:04:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808914",
+  "chargesCalculated": 400,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB25CD1015",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-18T20:42:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808915",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB26CD1016",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-03-25T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-25T20:16:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808916",
+  "chargesCalculated": 60,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB27CD1017",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-03-31T18:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-31T20:36:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808917",
+  "chargesCalculated": 100,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2df9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB28CD1018",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-18T20:12:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808918",
+  "chargesCalculated": 60,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dfa"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB29CD1019",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-11T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-11T20:31:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808919",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dfb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB30CD1020",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-03-23T18:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-23T19:43:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808920",
+  "chargesCalculated": 20,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dfc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB31CD1021",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-03-20T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-20T20:27:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808921",
+  "chargesCalculated": 400,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dfd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB32CD1022",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-07T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-07T20:37:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808922",
+  "chargesCalculated": 80,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dfe"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB33CD1023",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-15T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-15T20:00:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808923",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dff"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB34CD1024",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-06T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-06T20:49:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808924",
+  "chargesCalculated": 80,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e00"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB35CD1025",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-13T14:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-13T19:57:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808925",
+  "chargesCalculated": 300,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e01"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB36CD1026",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-11T18:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-11T19:55:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808926",
+  "chargesCalculated": 40,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e02"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB37CD1027",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-11T18:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-11T19:56:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808927",
+  "chargesCalculated": 100,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e03"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB38CD1028",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-04-11T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-11T19:52:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808928",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e04"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB39CD1029",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-18T20:15:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808929",
+  "chargesCalculated": 150,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e05"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB40CD1030",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-15T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-15T20:26:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808930",
+  "chargesCalculated": 60,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e06"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB41CD1031",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-06T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-06T20:41:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808931",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e07"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB42CD1032",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-17T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-17T20:38:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808932",
+  "chargesCalculated": 60,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e08"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB43CD1033",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-07T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-07T20:26:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808933",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e09"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB44CD1034",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-03-25T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-25T19:59:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808934",
+  "chargesCalculated": 60,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e0a"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB45CD1035",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-04-17T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-17T20:36:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808935",
+  "chargesCalculated": 400,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e0b"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB46CD1036",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-12T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-12T20:07:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808936",
+  "chargesCalculated": 80,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e0c"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB47CD1037",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-05T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-05T20:25:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808937",
+  "chargesCalculated": 150,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e0d"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB48CD1038",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-14T18:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-14T20:27:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808938",
+  "chargesCalculated": 40,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e0e"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB49CD1039",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-03-23T16:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-23T20:48:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808939",
+  "chargesCalculated": 200,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e0f"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB50CD1040",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-17T15:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-17T20:13:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808940",
+  "chargesCalculated": 100,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e10"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB51CD1041",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T17:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-18T19:53:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808941",
+  "chargesCalculated": 150,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e11"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB52CD1042",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-03-28T15:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-28T20:17:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808942",
+  "chargesCalculated": 500,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e12"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB53CD1043",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-03T14:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-04-03T20:05:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808943",
+  "chargesCalculated": 300,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e13"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "AB54CD1044",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-03-22T15:52:18.089Z"
+  },
+  "exitTime": {
+    "$date": "2026-03-22T20:11:18.089Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "TD-808944",
+  "chargesCalculated": 100,
+  "paymentStatus": "PENDING",
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.095Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e16"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "vehicleNumber": "LIVE8000",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T18:08:18.104Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81040",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.104Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e19"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc6"
+  },
+  "vehicleNumber": "LIVE8001",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T18:29:18.109Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81091",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.109Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.109Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e1c"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc9"
+  },
+  "vehicleNumber": "LIVE8002",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T18:41:18.111Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81112",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.111Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e1f"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dcc"
+  },
+  "vehicleNumber": "LIVE8003",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T19:32:18.113Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81133",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.113Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e22"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dce"
+  },
+  "vehicleNumber": "LIVE8004",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T18:15:18.115Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81154",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.115Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.115Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e25"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dd1"
+  },
+  "vehicleNumber": "LIVE8005",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T19:18:18.116Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81165",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.117Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.117Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e28"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dd4"
+  },
+  "vehicleNumber": "LIVE8006",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T18:44:18.118Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81186",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.118Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.118Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e2b"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dd5"
+  },
+  "vehicleNumber": "LIVE8007",
+  "vehicleType": "CAR",
+  "entryTime": {
+    "$date": "2026-04-18T17:36:18.120Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81207",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.120Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.120Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e2e"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dd9"
+  },
+  "vehicleNumber": "LIVE8008",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T19:19:18.121Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81218",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.122Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.122Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e31"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dda"
+  },
+  "vehicleNumber": "LIVE8009",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T19:38:18.123Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-81239",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.123Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e34"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2ddb"
+  },
+  "vehicleNumber": "LIVE8010",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T18:45:18.125Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-812510",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.125Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.125Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e37"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2ddf"
+  },
+  "vehicleNumber": "LIVE8011",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T18:01:18.126Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-812611",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.127Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.127Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e3a"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2de0"
+  },
+  "vehicleNumber": "LIVE8012",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T18:25:18.128Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-812812",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.128Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e3d"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2de1"
+  },
+  "vehicleNumber": "LIVE8013",
+  "vehicleType": "BIKE",
+  "entryTime": {
+    "$date": "2026-04-18T18:29:18.130Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-813013",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.130Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.130Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e40"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2de2"
+  },
+  "vehicleNumber": "LIVE8014",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-04-18T19:32:18.132Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-813214",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.133Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.133Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2e43"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotId": {
+    "$oid": "69e3e0f2c803377b8b3a2de5"
+  },
+  "vehicleNumber": "LIVE8015",
+  "vehicleType": "TRUCK",
+  "entryTime": {
+    "$date": "2026-04-18T17:54:18.135Z"
+  },
+  "exitTime": null,
+  "status": "ACTIVE",
+  "ticketId": "LIVE-813515",
+  "chargesCalculated": 0,
+  "paymentStatus": "PENDING",
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.135Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.135Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e75a19d38e5cf109c69b"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotId": {
+    "$oid": "69e3de7a24ac28953ead03af"
+  },
+  "vehicleNumber": "RJ20CB8360",
+  "driverPhone": "8278645185",
+  "vehicleType": "CAR",
+  "exitTime": {
+    "$date": "2026-04-18T20:20:42.471Z"
+  },
+  "status": "COMPLETED",
+  "ticketId": "C0F9920D",
+  "chargesCalculated": 50,
+  "paymentStatus": "PAID",
+  "entryTime": {
+    "$date": "2026-04-18T20:19:38.793Z"
+  },
+  "createdAt": {
+    "$date": "2026-04-18T20:19:38.797Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T20:20:42.471Z"
+  },
+  "__v": 0
+}]

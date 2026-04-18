@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "name": "Career Poin",
+  "address": "CP Tower, Road No 1, Kota, Rajasthan 324005",
+  "adminId": {
+    "$oid": "69e3dbbc52c0ede2f2dda592"
+  },
+  "totalSlots": {
+    "car": 20,
+    "bike": 40,
+    "truck": 5
+  },
+  "active": true,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.306Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "name": "Galaxy Tech Park",
+  "address": "404 Main Boulevard, NY",
+  "adminId": {
+    "$oid": "69e3dbbc52c0ede2f2dda592"
+  },
+  "totalSlots": {
+    "car": 20,
+    "bike": 12,
+    "truck": 4
+  },
+  "active": true,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.217Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.217Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "name": "Galaxy Tech Park",
+  "address": "404 Main Boulevard, NY",
+  "adminId": {
+    "$oid": "69e3dbbc52c0ede2f2dda592"
+  },
+  "totalSlots": {
+    "car": 20,
+    "bike": 12,
+    "truck": 4
+  },
+  "active": true,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.067Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.067Z"
+  },
+  "__v": 0
+}]

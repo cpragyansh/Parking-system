@@ -1,0 +1,2635 @@
+[{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03af"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-1",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T20:20:42.475Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-2",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-3",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-4",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-5",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-6",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-7",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-8",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-9",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-10",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03b9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-11",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ba"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-12",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03bb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-13",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.321Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03bc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-14",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03bd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-15",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03be"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-16",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03bf"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-17",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-18",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-19",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "C-20",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.322Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-1",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-2",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-3",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-4",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-5",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03c9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-6",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ca"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-7",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03cb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-8",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03cc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-9",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03cd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-10",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ce"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-11",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.335Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03cf"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-12",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-13",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-14",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-15",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-16",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-17",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-18",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-19",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-20",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-21",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03d9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-22",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03da"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-23",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03db"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-24",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03dc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-25",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03dd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-26",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03de"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-27",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03df"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-28",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-29",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-30",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-31",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-32",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-33",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-34",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-35",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-36",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-37",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03e9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-38",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ea"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-39",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03eb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "B-40",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.336Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ed"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "T-1",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ee"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "T-2",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03ef"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "T-3",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03f0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "T-4",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3de7a24ac28953ead03f1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3de7a24ac28953ead03ad"
+  },
+  "slotNumber": "T-5",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:41:46.340Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-1",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-2",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-3",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-4",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-5",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-6",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-7",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dd9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-8",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.229Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dda"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-9",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641ddb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-10",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641ddc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-11",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641ddd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-12",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dde"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-13",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641ddf"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-14",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-15",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-16",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-17",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-18",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-19",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "C-20",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-1",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-2",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-3",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641de9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-4",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dea"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-5",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641deb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-6",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dec"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-7",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641ded"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-8",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641dee"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-9",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641def"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-10",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641df0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-11",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641df1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "B-12",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641df2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "T-1",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641df3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "T-2",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641df4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "T-3",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0d3c862a5b6a8641df5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0d3c862a5b6a8641dd0"
+  },
+  "slotNumber": "T-4",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:51:47.230Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-1",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e16"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.107Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-2",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-3",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-4",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-5",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e19"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-6",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-7",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dc9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-8",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e1c"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.112Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dca"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-9",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dcb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-10",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dcc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-11",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e1f"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.114Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dcd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-12",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dce"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-13",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e22"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dcf"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-14",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-15",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-16",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e25"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.117Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-17",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-18",
+  "type": "CAR",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-19",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e28"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.119Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "C-20",
+  "type": "CAR",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e2b"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.121Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd6"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-1",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd7"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-2",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd8"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-3",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dd9"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-4",
+  "type": "BIKE",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e2e"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.122Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dda"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-5",
+  "type": "BIKE",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e31"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.124Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2ddb"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-6",
+  "type": "BIKE",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e34"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.126Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2ddc"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-7",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2ddd"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-8",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2dde"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-9",
+  "type": "BIKE",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2ddf"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-10",
+  "type": "BIKE",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e37"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de0"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-11",
+  "type": "BIKE",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e3a"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de1"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "B-12",
+  "type": "BIKE",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e3d"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.131Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de2"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "T-1",
+  "type": "TRUCK",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e40"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.134Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de3"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "T-2",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de4"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "T-3",
+  "type": "TRUCK",
+  "status": "AVAILABLE",
+  "currentVehicle": null,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "69e3e0f2c803377b8b3a2de5"
+  },
+  "parkingLotId": {
+    "$oid": "69e3e0f2c803377b8b3a2dc0"
+  },
+  "slotNumber": "T-4",
+  "type": "TRUCK",
+  "status": "OCCUPIED",
+  "currentVehicle": {
+    "$oid": "69e3e0f2c803377b8b3a2e43"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2026-04-18T19:52:18.083Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:52:18.136Z"
+  }
+}]

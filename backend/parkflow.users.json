@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "69e3dbbc52c0ede2f2dda592"
+  },
+  "name": "Super Admin",
+  "email": "admin@parkflow.com",
+  "password": "$2a$10$Qwwq4MMalYO1eS8dr78eGubn1raBhcu80SD.HGok4vri9.CzYHN/6",
+  "role": "SUPER_ADMIN",
+  "createdAt": {
+    "$date": "2026-04-18T19:30:04.474Z"
+  },
+  "updatedAt": {
+    "$date": "2026-04-18T19:30:04.474Z"
+  },
+  "__v": 0
+}]
